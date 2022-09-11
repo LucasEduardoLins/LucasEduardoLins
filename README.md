@@ -5,4 +5,3 @@
 - 💬 Ask me about Python.
 - 📫 How to reach me: Email, Discord.
 - 😄 Pronouns: NALucaas
--->
